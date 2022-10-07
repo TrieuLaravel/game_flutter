@@ -5,6 +5,9 @@
          to allow setting breakpoints, to provide hot reload, etc.
     -->
     <uses-permission android:name="android.permission.INTERNET"/>
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f2a5244ec2cb108d9fb96d2c0c09079389302530
 </manifest>
